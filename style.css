@@ -63,4 +63,10 @@ body {
     font-weight: bold;
     background-color: rgb(209, 76, 185);
     color: #fff;
+    margin: 2px auto;
+}
+
+.rgb-color-container p {
+    color: #fff;
+    text-align: center;
 }
